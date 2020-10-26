@@ -1,0 +1,3 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema Venda\Sistema\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema Venda\Sistema\Sistema\obj\Debug\Sistema.frm_menu.resources
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema Venda\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
